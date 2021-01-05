@@ -1,7 +1,9 @@
 SCENE 1
 
-PERSON_ONE   Hey PERSON_TWO, what are you up to?
+Christina   Heyo Steve, what are you up to?
 
-add line again
+Steve       Yep getting there
 
-add another line
+Christina   It's a bit of work getting this sorted. Kidna doing my head in.
+
+Steve       Agreed. 
